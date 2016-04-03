@@ -1,0 +1,35 @@
+[
+    {
+        "id": 0,
+        "title": "Shovel",
+        "value": 5,
+        "stats": {
+            "power": 1,
+            "defence": 4,
+            "vitality": 2
+        },
+        "description": "Shovel made from steel. Yea.",
+        "stackable": false,
+        "rarity": 1,
+        "slug": "item_shovel_1"
+
+
+    },
+    {
+        "id": 1,
+        "title": "Gold_Shovel",
+        "value": 30,
+        "stats": {
+           "power": 20,
+           "defence": 8,
+           "vitality": 55
+        },
+        "description": "Shovel made from Gold. Yea.",
+        "stackable": true,
+        "rarity": 5,
+        "slug": "item_goldshovel_1"
+
+
+    }
+
+]

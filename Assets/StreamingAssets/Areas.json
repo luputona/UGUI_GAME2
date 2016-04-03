@@ -1,0 +1,32 @@
+[
+    {
+        "ID": 1,
+        "FieldNum": 1,
+        "AreaNum": 1,
+        "AreaName": "Seongnam-Daero 1139Beon-gil",
+        "Consumestamina": 3
+    },
+    {
+        "ID": 2,
+        "FieldNum": 1,
+        "AreaNum": 2,
+        "AreaName": "Seongnam-Daero 1148Beon-gil",
+        "Consumestamina": 3
+    },
+    {
+        "ID": 3,
+        "FieldNum": 1,
+        "AreaNum": 3,
+        "AreaName": "Seongnam-Daero 1140Beon-gil",
+        "Consumestamina": 3
+    },
+    {
+        "ID": 4,
+        "FieldNum": 1,
+        "AreaNum": 4,
+        "AreaName": "Jeil-ro 35beon-gil",
+        "Consumestamina": 4
+    }   
+
+
+]
